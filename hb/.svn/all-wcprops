@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/74/trunk/hb
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/65/trunk/hb/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/65/trunk/hb/.cproject
+END
+hb
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/72/trunk/hb/hb
+END
+hb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/74/trunk/hb/hb.cpp
+END
+mcce.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/23/trunk/hb/mcce.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/65/trunk/hb/Makefile
+END
