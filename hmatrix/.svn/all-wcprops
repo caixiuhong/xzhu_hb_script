@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/81/trunk/hmatrix
+END
+hmatrix
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/81/trunk/hmatrix/hmatrix
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/75/trunk/hmatrix/Makefile
+END
+hmatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/81/trunk/hmatrix/hmatrix.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/trunk/hmatrix/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/20/trunk/hmatrix/.cproject
+END
