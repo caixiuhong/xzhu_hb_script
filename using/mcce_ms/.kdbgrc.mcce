@@ -1,0 +1,26 @@
+[Breakpoint 0]
+Enabled=true
+File=monte.c
+Line=2757
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
+
+[Watches]
+Expr0=env.ms_out
+Expr1=ms->n_crg
+Expr2=ms->crg_type[0].H_2sum
+Expr3=j
+Expr4=i_spe
+Expr5=i_type
